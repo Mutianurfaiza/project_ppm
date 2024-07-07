@@ -1,0 +1,12 @@
+io.flutter.plugins.flutter_plugin_android_lifecycle-core-1.6.0-0 C:\Users\hp\.gradle\caches\transforms-3\0766f3274761930a22a0eecc79a5fdb5\transformed\core-1.6.0\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-annotation-experimental-1.1.0-1 C:\Users\hp\.gradle\caches\transforms-3\41e47a630be1c9656eba08c96a05f640\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-java-1.0.0-beta04-2 C:\Users\hp\.gradle\caches\transforms-3\6165ef9cf44bfcf3c200b26334b8c50c\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-1.0.0-beta04-3 C:\Users\hp\.gradle\caches\transforms-3\c0387ec085c3d9278327ad6920af4baf\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-main-4 C:\Users\hp\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.20\android\src\main\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-release-5 C:\Users\hp\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.20\android\src\release\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-pngs-6 C:\Users\hp\OneDrive\Dokumen\project_flutter\techtaste\build\flutter_plugin_android_lifecycle\generated\res\pngs\release
+io.flutter.plugins.flutter_plugin_android_lifecycle-resValues-7 C:\Users\hp\OneDrive\Dokumen\project_flutter\techtaste\build\flutter_plugin_android_lifecycle\generated\res\resValues\release
+io.flutter.plugins.flutter_plugin_android_lifecycle-rs-8 C:\Users\hp\OneDrive\Dokumen\project_flutter\techtaste\build\flutter_plugin_android_lifecycle\generated\res\rs\release
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-9 C:\Users\hp\OneDrive\Dokumen\project_flutter\techtaste\build\flutter_plugin_android_lifecycle\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-10 C:\Users\hp\OneDrive\Dokumen\project_flutter\techtaste\build\flutter_plugin_android_lifecycle\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-merged_res-11 C:\Users\hp\OneDrive\Dokumen\project_flutter\techtaste\build\flutter_plugin_android_lifecycle\intermediates\merged_res\release

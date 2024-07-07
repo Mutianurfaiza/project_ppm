@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804202792358",
+    "project_id": "kulbal",
+    "storage_bucket": "kulbal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804202792358:android:b7a852d96323d9ab377b67",
+        "android_client_info": {
+          "package_name": "com.example.kulbal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJXGL1sBNidO2THqfNotJ9CJwObOEy19E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

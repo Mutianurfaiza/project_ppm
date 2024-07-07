@@ -1,0 +1,14 @@
+io.flutter.plugins.firebase.core.firebase_core-core-1.6.0-0 C:\Users\hp\.gradle\caches\transforms-3\0766f3274761930a22a0eecc79a5fdb5\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-play-services-basement-18.3.0-1 C:\Users\hp\.gradle\caches\transforms-3\2d3565b7eb2506eb9eb4b9bd93909e84\transformed\jetified-play-services-basement-18.3.0\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-annotation-experimental-1.1.0-2 C:\Users\hp\.gradle\caches\transforms-3\41e47a630be1c9656eba08c96a05f640\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-java-1.0.0-beta04-3 C:\Users\hp\.gradle\caches\transforms-3\6165ef9cf44bfcf3c200b26334b8c50c\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-1.0.0-beta04-4 C:\Users\hp\.gradle\caches\transforms-3\c0387ec085c3d9278327ad6920af4baf\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-firebase-common-21.0.0-5 C:\Users\hp\.gradle\caches\transforms-3\cf710715fa1e1b9146d345540a445ecf\transformed\jetified-firebase-common-21.0.0\res
+io.flutter.plugins.firebase.core.firebase_core-main-6 C:\Users\hp\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-3.1.1\android\src\main\res
+io.flutter.plugins.firebase.core.firebase_core-release-7 C:\Users\hp\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-3.1.1\android\src\release\res
+io.flutter.plugins.firebase.core.firebase_core-pngs-8 C:\Users\hp\OneDrive\Dokumen\project_flutter\techtaste\build\firebase_core\generated\res\pngs\release
+io.flutter.plugins.firebase.core.firebase_core-resValues-9 C:\Users\hp\OneDrive\Dokumen\project_flutter\techtaste\build\firebase_core\generated\res\resValues\release
+io.flutter.plugins.firebase.core.firebase_core-rs-10 C:\Users\hp\OneDrive\Dokumen\project_flutter\techtaste\build\firebase_core\generated\res\rs\release
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-11 C:\Users\hp\OneDrive\Dokumen\project_flutter\techtaste\build\firebase_core\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-12 C:\Users\hp\OneDrive\Dokumen\project_flutter\techtaste\build\firebase_core\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.core.firebase_core-merged_res-13 C:\Users\hp\OneDrive\Dokumen\project_flutter\techtaste\build\firebase_core\intermediates\merged_res\release

@@ -1,0 +1,1 @@
+ C:\\Users\\hp\\OneDrive\\Dokumen\\project_flutter\\techtaste\\.dart_tool\\flutter_build\\7e807b56284eff69260259edaa1c9908\\native_assets.yaml: 
